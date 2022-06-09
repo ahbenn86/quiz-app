@@ -1,10 +1,10 @@
 # Quiz App
-### Basic quiz or survey app.  
+### Basic quiz or survey UI.  
 <br/>
 
-<!-- ![Insert Image Link Here]() -->
+![App Photo](quiz.png)
 
-> Currently under development 
+ 
 
 <br/>
 
